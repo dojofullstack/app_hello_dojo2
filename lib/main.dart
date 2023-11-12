@@ -42,7 +42,7 @@ class MyAppHenry extends StatelessWidget {
           Container(
             padding: EdgeInsets.all(20),
             child: Image.asset(
-              'assets/images/gato-feliz.jpg',
+              'assets/images/gato-felisz.jpg',
               height: 200
               )
           ),
